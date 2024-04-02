@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Smart Tv",
+        "precio": 9000.0,
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "nombre": "Pc Notebook",
+        "precio": 15000.0,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "nombre": "Tabletttt",
+        "precio": 8000.0,
+        "stock": 5
+    }
+]
